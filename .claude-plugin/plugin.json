@@ -1,0 +1,7 @@
+{
+  "name": "translate-to-english",
+  "version": "0.2.0",
+  "description": "Translates your prompts into English with Haiku before Opus or Fable reads them, and asks for replies in Chinese",
+  "author": { "name": "ImTopz" },
+  "repository": "https://github.com/ImTopz/translate-to-english"
+}

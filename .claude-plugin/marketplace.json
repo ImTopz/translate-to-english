@@ -1,0 +1,8 @@
+{
+  "name": "translate-to-english",
+  "owner": { "name": "ImTopz" },
+  "metadata": {
+    "description": "A Claude Code mod that translates your prompts into English with Haiku before Opus or Fable reads them"
+  },
+  "plugins": [{ "name": "translate-to-english", "source": "./" }]
+}
